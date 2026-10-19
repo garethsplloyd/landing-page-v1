@@ -1,5 +1,9 @@
 # Landing Page
 
+## 19th October 2026 v2
+
+Made updates to the overall color scheme to a dark theme. Added hover and transition effects to the cards and navigation links. Finally, added more media queries to fix sizing and position on mobile and tablet devices.
+
 ## 17th October 2026 v1
 
 Just playing around with a landing page layout in order to get more familiar with formatting containters in CSS using flexbox, and additionally arranging child elements within containers.
