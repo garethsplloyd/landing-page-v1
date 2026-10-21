@@ -44,7 +44,9 @@ body {
     padding: 0;
     margin-left: auto;
     list-style: none;
-    gap: 1.6rem;
+    gap: 1rem;
+    width: 100%;
+    max-width: 360px;
 }
 
 .list:hover {
@@ -61,6 +63,7 @@ body {
     border-radius: 10px;
     text-align: center;
     transition: border-color 0.3s ease;
+    flex: 1;
 }
 
 .card-container {
